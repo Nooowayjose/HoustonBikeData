@@ -930,7 +930,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
         margin-bottom: 50px;
     }
     #video_background{
-        /* display: none; */
+        display: none;
     }
 
 }
